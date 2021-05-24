@@ -1,0 +1,1 @@
+<?php $accessKey='AKIAZICV7FNNVSVLEOPU'; $secretKey='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'; $region='us-east-1'; $bucket='bucketbootcampdecloudsmileenjoyisfun'; $arqName='logo.jpg'; $linkestatico='https://s3.amazonaws.com' ?>
