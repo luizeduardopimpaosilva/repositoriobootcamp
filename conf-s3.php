@@ -13,7 +13,7 @@
 		<div class="col-md-12">
       <?php include('menu.php'); ?>
 
-			<div class="jumbotron" style="background-color:#555; color:#fff">
+			<div class="jumbotron" style="background-color:#fff; color:#555">
 
       <?php
         include 's3.conf.php';
